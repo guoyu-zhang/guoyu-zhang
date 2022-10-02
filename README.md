@@ -1,8 +1,8 @@
-## Hi there 👋
+### Hi there 👋
 
 **My name is Guoyu Zhang and I'm a 3rd year Informatics student at The University of Edinburgh.**
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 🔭 I’m currently working on [ILCoffee](https://github.com/guoyu-zhang/ILCoffee)
 - 🌱 I’m currently learning full stack development, algorithms and data structures, and reasoning.
@@ -10,7 +10,7 @@
 - 💬 Ask me anything about Edinburgh, whether it be best walks or restaurants :yum:. 
 - 📫 How to reach me: ...
 
-## Get in touch
+### Get in touch
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://guoyu-zhang.xyz)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guoyu-zhang)
