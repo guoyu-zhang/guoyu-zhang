@@ -9,5 +9,5 @@ My name is Guoyu Zhang and I'm a 3rd year Informatics student at The University 
 - 🤔 I’m looking for ideas and suggestions on how to improve my work.
 - 💬 Ask me anything about Edinburgh, whether it be best walks or restaurants :yum:. 
 - 📫 How to reach me: 
--   [Linkedin](https://www.linkedin.com/in/guoyu-zhang)
--   [Email](mailto:gyzhang2016@gmail.com)
+  -[Linkedin](https://www.linkedin.com/in/guoyu-zhang)
+  -[Email](mailto:gyzhang2016@gmail.com)
