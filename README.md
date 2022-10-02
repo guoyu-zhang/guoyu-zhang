@@ -1,4 +1,4 @@
-### Hi I'm Guoyu👋
+## Hi I'm Guoyu👋
 
 **I'm a 3rd year Informatics student a The University of Edinburgh.**
 
