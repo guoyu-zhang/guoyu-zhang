@@ -8,4 +8,6 @@ My name is Guoyu Zhang and I'm a 3rd year Informatics student at The University 
 - 🌱 I’m currently expanding my knowledge on full stack development, algorithms and data structures, and reasoning.
 - 🤔 I’m looking for ideas and suggestions on how to improve my work.
 - 💬 Ask me anything about Edinburgh, whether it be best walks or restaurants :yum:. 
-- 📫 How to reach me: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guoyu-zhang)
+- 📫 How to reach me: 
+-   [Linkedin](https://www.linkedin.com/in/guoyu-zhang)
+-   [Email](gyzhang2016@gmail.com)
