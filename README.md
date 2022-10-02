@@ -11,3 +11,7 @@ My name is Guoyu Zhang and I'm a 3rd year Informatics student at The University 
 - 📫 How to reach me: 
   -[Linkedin](https://www.linkedin.com/in/guoyu-zhang)
   -[Email](mailto:gyzhang2016@gmail.com)
+ - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
