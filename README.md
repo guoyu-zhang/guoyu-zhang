@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Guoyu Zhang and I'm a 3rd year Informatics student at The University of Edinburgh.
+My name is Guoyu Zhang, I'm an Informatics student at The University of Edinburgh.
 
 ### About me
 
