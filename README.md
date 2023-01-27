@@ -5,9 +5,9 @@ My name is Guoyu Zhang, I'm an Informatics student at The University of Edinburg
 ### About me
 
 - 🔭 I’m currently working on [ILCoffee](https://github.com/guoyu-zhang/ILCoffee).
-- 🌱 I’m currently expanding my knowledge on full stack development, algorithms and data structures, and reasoning.
+- 🌱 I’m currently expanding my knowledge on full stack development, algorithms and complexity.
 - 🤔 I’m looking for ideas and suggestions on how to improve my work.
-- 💬 Ask me anything about Edinburgh, whether it be best walks or restaurants :yum:. 
+- 💬 Ask me anything about Edinburgh, whether it be best walks or restaurants. 
 
 ### Get in touch
 
