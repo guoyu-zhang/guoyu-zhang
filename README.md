@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Guoyu Zhang, I'm an Informatics student at The University of Edinburgh.
+My name is Guoyu Zhang, I'm a software engineer intern at Arm and penultimate year computer science student at The University of Edinburgh.
 
 ### About me
 
